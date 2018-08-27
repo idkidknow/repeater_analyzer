@@ -2,7 +2,7 @@
 
 基于 qqbot 的Q群复读机分析器。An analyzer of repeaters in QQ groups based on qqbot.
 
-Blog: https://idkidknow.com/2018/08/27/%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A-%E6%AF%AB%E6%97%A0%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84q%E7%BE%A4%E5%A4%8D%E8%AF%BB%E6%9C%BA%E5%88%86%E6%9E%90%E5%99%A8/
+Blog: [idkidknow](https://idkidknow.com/2018/08/27/%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A-%E6%AF%AB%E6%97%A0%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84q%E7%BE%A4%E5%A4%8D%E8%AF%BB%E6%9C%BA%E5%88%86%E6%9E%90%E5%99%A8/)
 
 ## 如何使用
 
