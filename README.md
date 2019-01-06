@@ -1,3 +1,5 @@
+# 由于腾讯于 2019.1.1 关闭 webqq 接口, qqbot 失效停摆, 本项目也无法继续使用
+
 # repeater_analyzer
 
 基于 qqbot 的Q群复读机分析器。An analyzer of repeaters in QQ groups based on qqbot.
